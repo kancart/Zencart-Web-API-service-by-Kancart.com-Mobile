@@ -1,4 +1,4 @@
-Zencart-API-service-by-Kancart.com-Mobile
+Zencart-Web-API-service-by-Kancart.com-Mobile
 =========================================
 
 Kancart Zencart HTML5 Mobile Template / Theme & Native APP API Service
